@@ -1,0 +1,7 @@
+Corridor,Flow veh/h,v/c,Speed km/h,Vehicles depending on it /h,Avg extra min if avoided,Realistic diversion /h,Share divertible %,Alternatives
+Link Bigogwe – Nyabirasi,4674.684454792608,3.89557037899384,0.49999977296566667,5675.290201549433,8.410888389996046,5675.290201549433,99.99999999999999,"Link Mamba – Ruhashya, Link Muganza (1) – Mamba, Link Muhanda – Muzo"
+Link Ruhashya – Cyanika (1),4056.7276874814816,3.3806064062345684,0.8573494788949446,1673.9763784641511,228.43893428466137,2.178077676997108,0.1301140031017321,"Link Mamba – Ruhashya, Link Muhanda – Muzo, Link Bigogwe – Muzo"
+Link Ruhashya – Muganza (1),4597.157329655193,3.830964441379328,0.6792247885137089,0.0,0.0,0.0,0.0,"Link Mamba – Ruhashya, Link Muhanda – Muzo, Link Bigogwe – Muzo"
+Link Kibeho – Ruhashya,2973.8002469072007,2.478166872422667,1.3549538252792257,6308.020545158848,30.03083513307385,5937.344326011424,94.12373158118669,"Link Mamba – Ruhashya, Link Muhanda – Muzo, Link Bigogwe – Muzo"
+Link Bumbogo – Jali,5331.482413682143,4.442902011401785,0.5042283776002022,14412.509634809812,633.8752352376588,0.0,0.0,"Link Mamba – Ruhashya, Link Muhanda – Muzo, Link Bigogwe – Muzo"
+Link Mamba – Ruhashya,3753.8670065243014,3.1282225054369177,1.209215949138588,22744.211933605417,402.0492551186975,15674.019955221253,68.91432422884833,"Link Muhanda – Muzo, Link Bigogwe – Muzo, Link Nyabirasi – Muhanda"
